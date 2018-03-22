@@ -1,1 +1,2 @@
 Text in aFeature file
+Adding some new info
